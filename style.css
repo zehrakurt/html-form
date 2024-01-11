@@ -1,0 +1,9 @@
+.form{
+    padding-bottom:30px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.labe{
+    width: 25rem;
+}
